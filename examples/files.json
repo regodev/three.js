@@ -169,6 +169,7 @@
 		"webgl_materials_toon",
 		"webgl_materials_video",
 		"webgl_materials_video_webcam",
+    "webgl_materials_video_webcodecs",
 		"webgl_materials_wireframe",
 		"webgl_math_obb",
 		"webgl_math_orientation_transform",
